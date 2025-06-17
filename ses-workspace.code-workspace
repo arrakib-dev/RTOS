@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "lib"
+		},
+		{
+			"path": "main"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"io.h": "c",
+			"stdbool.h": "c",
+			"stdint.h": "c",
+			"ses_fanspeed.h": "c",
+			"lock.h": "c",
+			"ses_led.h": "c"
+		}
+	}
+}
